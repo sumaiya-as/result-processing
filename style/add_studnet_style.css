@@ -1,0 +1,71 @@
+/* CSS Document */
+*{
+	margin:0px;
+	padding:0px;
+	}
+.menu{
+	width:100%;
+	height:500px;
+	
+	}
+.menu_container{
+	
+	width:450px;
+	height:300px;
+	background:;
+	margin:auto;
+	}
+form{
+	padding-top:50px;
+	}
+h2{
+	margin-top:10px;
+	text-align:center;
+	 font-family: "Trebuchet MS", Arial, Helvetica, sans-serif;
+	}
+.error_msg{
+	 font-family: "Trebuchet MS", Arial, Helvetica, sans-serif;
+	text-align:center;
+	color:#09F;
+	}
+#stdnt_table{
+    font-family: "Trebuchet MS", Arial, Helvetica, sans-serif;
+    border-collapse: collapse;
+    width: 100%;
+	
+}
+
+#stdnt_table td, #stdnt_table th {
+    border: 1px solid #ddd;
+    padding: 8px;
+}
+
+#stdnt_table tr:nth-child(even){background-color: ;}
+
+#stdnt_table tr:hover {background-color:;}
+
+#customers th {
+    padding-top: 12px;
+    padding-bottom: 12px;
+    text-align: left;
+    background-color: ;
+    color: white;
+}
+.input_bx{
+	width:200px;
+	height:20px;
+	}
+.submit{
+	margin-top:5px;
+	height:30px;	
+	width:100%;
+	}
+.bact_to_page{
+    text-decoration:none;
+	color:#009;
+		
+	}
+.bact_to_page:hover{
+	color:red;
+	}
+
